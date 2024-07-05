@@ -1,0 +1,27 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 90px;
+    text-align: center;
+    text-decoration-style: double;
+    background-color:white;
+    border-radius: 50px;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+    border:15px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+    
+
+}
